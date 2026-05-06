@@ -1,0 +1,7 @@
+v1
+{"path":"file:///mnt/c/projects/BigData-Streaming-Project/data/engagement/part-00000-901db482-4168-4705-a738-8571809de058-c000.snappy.parquet","size":711,"isDir":false,"modificationTime":1778009539980,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/c/projects/BigData-Streaming-Project/data/engagement/part-00033-cb411c79-3c7c-4e24-bc3b-7455e41b0cf3-c000.snappy.parquet","size":1484,"isDir":false,"modificationTime":1778009541150,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/c/projects/BigData-Streaming-Project/data/engagement/part-00088-54d9e30d-ea72-453b-9ed8-6e380e443a8b-c000.snappy.parquet","size":1484,"isDir":false,"modificationTime":1778009542845,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/c/projects/BigData-Streaming-Project/data/engagement/part-00138-b6f2b36d-114f-468f-9aea-8b96d497670e-c000.snappy.parquet","size":1482,"isDir":false,"modificationTime":1778009544634,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/c/projects/BigData-Streaming-Project/data/engagement/part-00151-0c6aa079-847d-43a2-800e-5be4ade0c65a-c000.snappy.parquet","size":1484,"isDir":false,"modificationTime":1778009545030,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/c/projects/BigData-Streaming-Project/data/engagement/part-00178-feebea05-a690-493e-8ced-07a23cf28733-c000.snappy.parquet","size":1483,"isDir":false,"modificationTime":1778009545903,"blockReplication":1,"blockSize":33554432,"action":"add"}
