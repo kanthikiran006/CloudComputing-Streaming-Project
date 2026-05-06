@@ -1,0 +1,3 @@
+v1
+{"path":"file:///mnt/c/projects/BigData-Streaming-Project/data/high_risk/part-00000-0e12e0f4-f670-4bb1-9083-75df42a0899d-c000.snappy.parquet","size":1098,"isDir":false,"modificationTime":1778009975086,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/c/projects/BigData-Streaming-Project/data/high_risk/part-00003-088a0729-22c9-4313-b43d-46811aa3164c-c000.snappy.parquet","size":2803,"isDir":false,"modificationTime":1778009975590,"blockReplication":1,"blockSize":33554432,"action":"add"}
