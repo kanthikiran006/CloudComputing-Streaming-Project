@@ -87,4 +87,9 @@ streamlit run dashboard.py
 
 # 👨‍💻 Developed By
 
-Kanthi Kiran
+Kanthi Kiran (RA2512051010004)
+RAVI BHARATHI K (RA2512052010029)
+Sri Harsha Pattnayak (RA2512052010023)
+Venkat Srinivas (RA2512052010024)
+M BHANUPRAKASH (RA2512052010019)
+
