@@ -1,0 +1,6 @@
+v1
+{"path":"file:///mnt/c/projects/BigData-Streaming-Project/data/sentiment/part-00000-b71d4a2f-251a-4375-9cc0-356ae4d987d6-c000.snappy.parquet","size":716,"isDir":false,"modificationTime":1778007700177,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/c/projects/BigData-Streaming-Project/data/sentiment/part-00024-c2760409-703d-4eed-b673-66f107a02b34-c000.snappy.parquet","size":1483,"isDir":false,"modificationTime":1778008002816,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/c/projects/BigData-Streaming-Project/data/sentiment/part-00076-66107c84-00c5-46fd-ae88-18913459777e-c000.snappy.parquet","size":1483,"isDir":false,"modificationTime":1778008002816,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/c/projects/BigData-Streaming-Project/data/sentiment/part-00177-c653e544-ed70-4361-baaa-77c0a502c667-c000.snappy.parquet","size":1484,"isDir":false,"modificationTime":1778008002816,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/c/projects/BigData-Streaming-Project/data/sentiment/part-00186-ae7ef66c-ed8b-4723-84eb-4de40f900a93-c000.snappy.parquet","size":1483,"isDir":false,"modificationTime":1778008002816,"blockReplication":1,"blockSize":33554432,"action":"add"}
