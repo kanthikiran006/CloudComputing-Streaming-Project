@@ -46,7 +46,8 @@ Producer → Kafka → Spark Analytics → Parquet Storage → Streamlit Dashboa
 
 # 📊 Dashboard Output
 
-(Add your screenshots here)
+<img width="1918" height="1018" alt="6" src="https://github.com/user-attachments/assets/6ec33f21-e80f-4de6-bdd3-7fe9d6ff20bd" />
+
 
 ---
 
